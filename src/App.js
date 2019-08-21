@@ -345,6 +345,360 @@ const huone3Data = [
   }
 ];
 
+const allData = [
+  {
+    room: "huone 1",
+    data: [
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "6",
+        available: false,
+        reservedBy: "roope"
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "7",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "8",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "9",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "10",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "11",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "12",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "13",
+        available: false,
+        reservedBy: "sini"
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "14",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "15",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "16",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "17",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "18",
+        available: false,
+        reservedBy: "nasu"
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "19",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "20",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 1",
+        date: "21.8.2019",
+        start: "21",
+        available: true,
+        reservedBy: null
+      }
+    ]
+  },
+  {
+    room: "huone 2",
+    data: [
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "6",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "7",
+        available: false,
+        reservedBy: "roope"
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "8",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "9",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "10",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "11",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "12",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "13",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "14",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "15",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "16",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "17",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "18",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "19",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "20",
+        available: false,
+        reservedBy: "nasu"
+      },
+      {
+        room: "huone 2",
+        date: "21.8.2019",
+        start: "21",
+        available: true,
+        reservedBy: null
+      }
+    ]
+  },
+  {
+    room: "huone 3",
+    data: [
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "6",
+        available: false,
+        reservedBy: "roope"
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "7",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "8",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "9",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "10",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "11",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "12",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "13",
+        available: false,
+        reservedBy: "sini"
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "14",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "15",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "16",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "17",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "18",
+        available: false,
+        reservedBy: "nasu"
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "19",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "20",
+        available: true,
+        reservedBy: null
+      },
+      {
+        room: "huone 3",
+        date: "21.8.2019",
+        start: "21",
+        available: true,
+        reservedBy: null
+      }
+    ]
+  }
+];
+
 const App = () => {
   return (
     <Table celled>
@@ -371,9 +725,13 @@ const App = () => {
       </Table.Header>
 
       <Table.Body>
-        <CellRow data={huone1Data} />
+        {/* <CellRow data={huone1Data} />
         <CellRow data={huone2Data} />
-        <CellRow data={huone3Data} />
+        <CellRow data={huone3Data} /> */}
+
+        {allData.map((data, index) => (
+          <CellRow key={index} data={data} />
+        ))}
       </Table.Body>
     </Table>
   );

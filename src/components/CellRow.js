@@ -16,8 +16,9 @@ const printCells = ({ data }) => {
 const CellRow = data => {
   return (
     <Table.Row>
-      <Table.Cell>{data.data[0].room}</Table.Cell>
-      {printCells(data)}
+      {/* <Table.Cell>{data.data[0].room}</Table.Cell> */}
+      <Table.Cell>{data.data.room}</Table.Cell>
+      {printCells(data.data)}
     </Table.Row>
   );
 };
